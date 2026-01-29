@@ -15,4 +15,4 @@
    
 - Gained foundational knowledge of Artificial Intelligence concepts, real-world applications, and responsible AI basics.
 
-  [View Certificate]()
+  [View Certificate](https://github.com/shalushetty7-ux/Certificates/blob/main/Certificates/Fundamental%20AI%20Concepts.pdf)
